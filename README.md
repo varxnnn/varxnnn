@@ -1,5 +1,4 @@
-<a href="https://www.linkedin.com/in/varun-sharma-240031195/" target="_blank" rel="nofollow"><img align="right" alt="Varun's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />uh</a>
-
+[![Linkedin: Varun Sharma](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-sharma-240031195/)](https://www.linkedin.com/in/varun-sharma-240031195/)
 
 ## Hello!
 ### I am Varun.
