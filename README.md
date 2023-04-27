@@ -1,9 +1,9 @@
-<a href="https://www.linkedin.com/in/varun-sharma-240031195/" target="_blank" rel="nofollow"><img align="right" alt="Varun's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/varun-sharma-240031195/" target="_blank" rel="nofollow"><img align="right" alt="Varun's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />uh</a>
 
 
 ## Hello!
 ### I am Varun.
-I am a DevOps Engineer at [BiggBrains](https://biggbrains.com/) and I develop automated, efficient, secure and modular solutions that streamlines the software development workflow.
+I'm DevOps Engineer and I develop automated, efficient, secure and modular solutions that streamlines the software development workflow. I also freelance as a Technical Content Writer! Needless to say, I'm passionate about what I do. Feel free to contact me about anything DevOps!
 
 - 👋 My [blog](https://varxn.hashnode.dev/)
 - ✍️ [Linkedin Profile](https://www.linkedin.com/in/varun-sharma-240031195/)
