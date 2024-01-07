@@ -1,6 +1,8 @@
 ## Hello!
 ### I am Varun.
-I'm DevOps Engineer and I develop automated, efficient, secure and modular solutions that streamline the software development workflow. I also freelance as a Technical Content Writer! Needless to say, I'm passionate about what I do. Feel free to contact me about anything DevOps!
+I'm DevOps Engineer and I develop automated, efficient, secure and modular solutions that streamline the software development workflow. I'm passionate about what I do, so feel free to contact me about anything DevOps!
+
+Apart from work, I love music, games, books and of course, cats.
 
 👋 Check out my [blog](https://varxn.hashnode.dev/)!
 
